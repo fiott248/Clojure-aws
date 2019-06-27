@@ -1,4 +1,4 @@
-# AWS Clients
+# AWS Client app
 
 Implementation of Clojure with hiccup for use of AWS services with amazonica.
 * S3 Bucket
